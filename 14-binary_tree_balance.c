@@ -44,5 +44,5 @@ int binary_height(const binary_tree_t *tree)
 		return (val);
 	}
 	else
-		return (val);
+		return (val1);
 }
